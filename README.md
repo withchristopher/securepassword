@@ -8,6 +8,6 @@ Simple webpage to generate a password using the following prompts:
 - THEN a password is generated that matches the selected criteria
 - THEN the password is either displayed in an alert or written to the page
 
-# Visit Site to view password generator:
-
-https://withchristopher.github.io/securepassord
+# How to Use:
+Visit Site to view password generator:
+https://withchristopher.github.io/securepassword/
